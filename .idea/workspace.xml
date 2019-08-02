@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="686a9e56-11ae-46b3-8f5e-6ee5df64f93b" name="Default Changelist" comment="" />
+    <list default="true" id="686a9e56-11ae-46b3-8f5e-6ee5df64f93b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/playML/LinearRegression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/playML/SimpleLinearRegression1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/playML/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/线性回归算法/README.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/线性回归算法/SimpleLinearRegression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/线性回归算法/boston_linear_regression.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/线性回归算法/多元线性回归.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/线性回归算法/预测boston房价-metrics-sklearn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,77 +23,74 @@
     <SUITE FILE_PATH="coverage/MachineLearn$numpy.coverage" NAME="numpy基础 Coverage Results" MODIFIED="1564564245013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MachineLearn$matplotlib.coverage" NAME="matplotlib基础 Coverage Results" MODIFIED="1564564919675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/MachineLearn$.coverage" NAME="测试我们自己的算法 Coverage Results" MODIFIED="1564620506282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/knn-K近邻算法" />
+    <SUITE FILE_PATH="coverage/MachineLearn$SimpleLinearRegression1.coverage" NAME="SimpleLinearRegression1 Coverage Results" MODIFIED="1564713220273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/playML" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/knn-K近邻算法/sk_learn_knn.py">
+        <entry file="file://$PROJECT_DIR$/knn-K近邻算法/readme.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="265">
+              <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/线性回归算法/多元线性回归.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/playML/LinearRegression.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="24" column="41" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
               <folding>
-                <element signature="e#10#60#0" expanded="true" />
+                <element signature="e#0#18#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/knn-K近邻算法/sk_learn_accuracy_train_test_split.py">
+        <entry file="file://$PROJECT_DIR$/线性回归算法/boston_linear_regression.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/knn-K近邻算法/分类准确度.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="9" selection-start-line="9" selection-end-line="11" selection-end-column="17" />
+            <state relative-caret-position="200">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
               <folding>
-                <element signature="e#0#17#0" expanded="true" />
+                <element signature="e#0#35#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/knn-K近邻算法/sklearn对数据进行归一化.py">
+        <entry file="file://D:/Program Files/python/Lib/site-packages/numpy/core/numeric.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-              <folding>
-                <element signature="e#0#29#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="122">
+              <caret line="175" column="4" selection-start-line="175" selection-start-column="4" selection-end-line="175" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/knn-K近邻算法/readme.yml">
+        <entry file="file://$PROJECT_DIR$/线性回归算法/README.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="265">
-              <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+            <state relative-caret-position="100">
+              <caret line="28" column="20" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="20" />
+              <folding>
+                <element signature="e#35#692#0" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://D:/Program Files/python/Lib/site-packages/sklearn/metrics/classification.py">
+        <entry file="file://$PROJECT_DIR$/线性回归算法/预测boston房价-metrics-sklearn.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1960">
-              <caret line="114" column="25" selection-start-line="114" selection-start-column="19" selection-end-line="114" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/knn-K近邻算法/测试我们自己的算法.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+            <state relative-caret-position="250">
+              <caret line="16" selection-start-line="16" selection-end-line="16" selection-end-column="32" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
@@ -91,36 +99,32 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/matplotlib基础.py">
+        <entry file="file://$PROJECT_DIR$/线性回归算法/SimpleLinearRegression.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/numpy基础.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2460">
-              <caret line="123" column="11" selection-start-line="123" selection-start-column="11" selection-end-line="123" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/knn-K近邻算法/归一化.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+            <state relative-caret-position="-296">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/playML/SimpleLinearRegression1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1210">
+              <caret line="101" column="72" selection-start-line="101" selection-start-column="72" selection-end-line="101" selection-end-column="72" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/playML/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -132,6 +136,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -140,7 +147,6 @@
         <option value="$PROJECT_DIR$/加载数据.py" />
         <option value="$PROJECT_DIR$/knn-K近邻算法/main.py" />
         <option value="$PROJECT_DIR$/knn-K近邻算法/sk_learn_knn.py" />
-        <option value="$PROJECT_DIR$/knn-K近邻算法/测试我们自己的算法.py" />
         <option value="$PROJECT_DIR$/knn-K近邻算法/分类准确度.py" />
         <option value="$PROJECT_DIR$/knn-K近邻算法/sk_learn_accuracy_train_test_split.py" />
         <option value="$PROJECT_DIR$/knn-K近邻算法/网格搜索.py" />
@@ -148,6 +154,16 @@
         <option value="$PROJECT_DIR$/knn-K近邻算法/归一化.py" />
         <option value="$PROJECT_DIR$/knn-K近邻算法/sklearn对数据进行归一化.py" />
         <option value="$PROJECT_DIR$/knn-K近邻算法/readme.yml" />
+        <option value="$PROJECT_DIR$/knn-K近邻算法/测试我们自己的算法.py" />
+        <option value="$PROJECT_DIR$/线性回归算法/SimpleLinearRegression.py" />
+        <option value="$PROJECT_DIR$/线性回归算法/预测boston放假.py" />
+        <option value="$PROJECT_DIR$/线性回归算法/预测boston放假-sklearn.py" />
+        <option value="$PROJECT_DIR$/playML/SimpleLinearRegression1.py" />
+        <option value="$PROJECT_DIR$/线性回归算法/预测boston房价-metrics-sklearn.py" />
+        <option value="$PROJECT_DIR$/线性回归算法/README.yml" />
+        <option value="$PROJECT_DIR$/线性回归算法/多元线性回归.py" />
+        <option value="$PROJECT_DIR$/playML/LinearRegression.py" />
+        <option value="$PROJECT_DIR$/线性回归算法/boston_linear_regression.py" />
       </list>
     </option>
   </component>
@@ -157,6 +173,7 @@
     <option name="width" value="1400" />
     <option name="height" value="800" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -170,6 +187,16 @@
               <item name="MachineLearn" type="b2602c69:ProjectViewProjectNode" />
               <item name="MachineLearn" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="MachineLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MachineLearn" type="462c0819:PsiDirectoryNode" />
+              <item name="playML" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MachineLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MachineLearn" type="462c0819:PsiDirectoryNode" />
+              <item name="线性回归算法" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -181,6 +208,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -194,21 +222,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.sklearn对数据进行归一化">
-    <configuration name="网格搜索" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.boston_linear_regression">
+    <configuration name="SimpleLinearRegression" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MachineLearn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/knn-K近邻算法" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/线性回归算法" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/knn-K近邻算法/网格搜索.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/线性回归算法/SimpleLinearRegression.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SimpleLinearRegression1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MachineLearn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/playML" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/playML/SimpleLinearRegression1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -277,20 +321,17 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sk_learn_accuracy_train_test_split" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="预测boston房价-metrics-sklearn" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MachineLearn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/knn-K近邻算法" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/线性回归算法" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/knn-K近邻算法/sk_learn_accuracy_train_test_split.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/线性回归算法/预测boston房价-metrics-sklearn.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -299,20 +340,36 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sklearn对数据进行归一化" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="预测boston放假" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="MachineLearn" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/knn-K近邻算法" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/线性回归算法" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/knn-K近邻算法/sklearn对数据进行归一化.py" />
+      <option name="SCRIPT_NAME" value="E:\桌面\MachineLearn\线性回归算法\预测boston房价-metrics-sklearn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="boston_linear_regression" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="MachineLearn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/线性回归算法" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/线性回归算法/boston_linear_regression.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -323,9 +380,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.sklearn对数据进行归一化" />
-        <item itemvalue="Python.网格搜索" />
-        <item itemvalue="Python.sk_learn_accuracy_train_test_split" />
+        <item itemvalue="Python.boston_linear_regression" />
+        <item itemvalue="Python.预测boston房价-metrics-sklearn" />
+        <item itemvalue="Python.预测boston放假" />
+        <item itemvalue="Python.SimpleLinearRegression" />
+        <item itemvalue="Python.SimpleLinearRegression1" />
       </list>
     </recent_temporary>
   </component>
@@ -342,38 +401,37 @@
       <workItem from="1564558949200" duration="10486000" />
       <workItem from="1564619607544" duration="8573000" />
       <workItem from="1564645200237" duration="105000" />
-      <workItem from="1564710516752" duration="46000" />
+      <workItem from="1564710516752" duration="10320000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19210000" />
+    <option name="totallyTimeSpent" value="29484000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2600536" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25938338" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32914925" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39888424" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3980447" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32960895" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Python Console" order="12" visible="true" weight="0.44490933" />
+      <window_info anchor="bottom" id="Python Console" order="12" visible="true" weight="0.4455307" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" sideWeight="0.49497488" visible="true" weight="0.20040214" />
-      <window_info anchor="right" x="0" y="0" width="337" height="648" id="Documentation" order="4" sideWeight="0.50502515" side_tool="true" visible="true" weight="0.20040214" />
+      <window_info anchor="right" id="SciView" order="3" sideWeight="0.49622166" visible="true" weight="0.2727882" />
+      <window_info anchor="right" x="0" y="0" width="337" height="648" id="Documentation" order="4" sideWeight="0.50377834" side_tool="true" weight="0.20040214" />
       <window_info anchor="right" id="Database" order="5" />
     </layout>
   </component>
@@ -489,13 +547,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/Program Files/python/Lib/site-packages/sklearn/model_selection/_split.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="2043" column="29" selection-start-line="2043" selection-start-column="24" selection-end-line="2043" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/knn-K近邻算法/网格搜索.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
@@ -533,33 +584,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/knn-K近邻算法/sklearn对数据进行归一化.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="20" column="32" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Program Files/python/Lib/site-packages/sklearn/metrics/classification.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1960">
-          <caret line="114" column="25" selection-start-line="114" selection-start-column="19" selection-end-line="114" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/knn-K近邻算法/测试我们自己的算法.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#18#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/matplotlib基础.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
@@ -587,10 +611,138 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearn/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MachineLearn/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/Program Files/python/Lib/site-packages/sklearn/metrics/classification.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="114" column="25" selection-start-line="114" selection-start-column="19" selection-end-line="114" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knn-K近邻算法/测试我们自己的算法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-80">
+          <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/python/Lib/site-packages/sklearn/model_selection/_split.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="2040" column="11" lean-forward="true" selection-start-line="2040" selection-start-column="11" selection-end-line="2040" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1033720826/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="289" column="4" selection-start-line="289" selection-start-column="4" selection-end-line="289" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/knn-K近邻算法/sklearn对数据进行归一化.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/knn-K近邻算法/readme.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="265">
-          <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+          <caret line="30" column="24" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/线性回归算法/多元线性回归.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playML/SimpleLinearRegression1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1210">
+          <caret line="101" column="72" selection-start-line="101" selection-start-column="72" selection-end-line="101" selection-end-column="72" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playML/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playML/LinearRegression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="24" column="41" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/线性回归算法/预测boston房价-metrics-sklearn.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="16" selection-start-line="16" selection-end-line="16" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/线性回归算法/SimpleLinearRegression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-296">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/python/Lib/site-packages/numpy/core/numeric.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="175" column="4" selection-start-line="175" selection-start-column="4" selection-end-line="175" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/线性回归算法/boston_linear_regression.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/线性回归算法/README.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="28" column="20" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="20" />
+          <folding>
+            <element signature="e#35#692#0" />
+          </folding>
         </state>
       </provider>
     </entry>

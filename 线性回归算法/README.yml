@@ -1,0 +1,31 @@
+机器学习中参数学习的基本思路 :
+  - 求解损失函数中最优的参数值
+简单线性回归 :
+  - 什么是线性回归? :
+      - 寻找到一条直线,使得train数据尽可能的分布在直线两侧
+      - 目标:
+          - 使得 ∑ ( yi - y↑) 最小
+  - 后续可以学习最优化原理和凸优化原理
+  - 最小二乘法 :
+      - 误差的平方的最小化
+  - 向量化运算 :
+      - 向量化运算,效率将大大提升
+  - 衡量指标 :
+      - 均方误差(mean squared error) MES :
+        - ∑ (y_test - y_test_i) / m 尽量的小
+      - 均方根误差(root mean squared error) RMSE :
+          - 对量纲有要求
+      - 平均绝对误差(mean absolute error) MAE :
+        - ∑ (y_test - y_i) / m
+      - R Squared
+        - 1 - MSE / 方差
+        - 1 - SS(residual Sum of Squares) / SS(total Sum of Squares)
+        - SS(residual) = ∑ (预测值 - 真值)2
+        - SS(total) = ∑ (均值 - 真值)2
+        - 说明为什么R2 评价误差好?
+            - 1 - 使用自己模型参设的错误 / 基本模型的错误 = 我们的模型减少了多少错误
+多元线性回归 :
+  - 正规方程
+    - θ = (Xb)T*(Xb)*(Xb)T*y
+    - 求解时间过长
+    - 不需要对数据进行归一化处理
